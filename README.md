@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake Rabbiner</h1>
-<h3 align="center">A passionate ffull-stack developer from Philadelphia</h3>
+<h3 align="center">A passionate full-stack developer from Philadelphia</h3>
 
 - 🔭 I’m currently working on **My Senior Project**
 
